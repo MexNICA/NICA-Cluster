@@ -1,4 +1,4 @@
-## Macros to launch jobs and get the multiplicity classes
+## Macros to launch jobs and get the multiplicity distributions from data of the NICA cluster
 
 1. LaunchAll.sh :arrow_right: Launch the jobs from the RunAll.sh macro.
 2. RunAll.sh    :arrow_right: Analysis macro to perform the analysis in one job from the section 1.5 to the section 2.2 from: https://git.jinr.ru/nica/mpdroot/-/tree/dev/macro/physical_analysis/Flow
